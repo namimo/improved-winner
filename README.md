@@ -1,3 +1,5 @@
+# MAINTAINENCE TEMPLATE
+
 To install dependencies:
 ```sh
 bun install
